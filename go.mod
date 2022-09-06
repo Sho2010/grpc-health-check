@@ -1,4 +1,4 @@
-module github.com/Sho2010/grpc-health
+module github.com/Sho2010/grpc-health-check
 
 go 1.19
 
